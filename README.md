@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on real Projects.
 - 📫 How to reach me @arjunnagar1021@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Arjunnagar-1021/Arjunnagar-1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
